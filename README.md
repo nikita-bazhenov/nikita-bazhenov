@@ -3,8 +3,6 @@
 **Backend Developer | 5+ years of experience | Python Enthusiast**  
 📍 **GMT+5** | 📧 **nbazhenov.main@gmail.com**  
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/nikita-bazhenoff/))
-
 ---
 
 ## 🧑‍💻 About Me  
