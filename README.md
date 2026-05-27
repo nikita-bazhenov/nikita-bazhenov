@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikita Bazhenov  
+# 👋 Hi, I'm Nik
 
 **Backend Developer | 5+ years of experience | Python Enthusiast**  
 📍 **GMT+5** | 📧 **nbazhenov.main@gmail.com**  
